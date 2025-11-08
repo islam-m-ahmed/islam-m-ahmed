@@ -17,7 +17,7 @@ Backend Engineer with 4 years of experience specializing in PHP and Laravel. Pas
 ## 🚀 Technical Skills  
 - **Backend:** PHP (OOP, MVC), Laravel, RESTful APIs  
 - **Frontend:** HTML5, CSS3, JavaScript (ES6), Bootstrap  
-- **Databases:** MySQL  
+- **Databases:** MySQL, SQL Server
 - **Tools & Technologies:** Git, Docker, WordPress  
 - **Other:** C++, Python, Problem Solving, Data Structures  
 - **Soft Skills:** Leadership, Team Collaboration, Communication, Multitasking  
