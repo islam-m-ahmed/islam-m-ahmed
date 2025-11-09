@@ -4,7 +4,7 @@
 📍 Alexandria, Egypt  
 📞 Mobile: 01098744381, 01276547898 (WhatsApp)  
 📧 Email: [islamicmahmed@gmail.com](mailto:islamicmahmed@gmail.com)  
-🔗 LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/islam-m-fadlallah-8988311b8)  
+🔗 LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/islam-m-fadlallah-8988311b8))
 ---
 
 ## 👨‍💻 Professional Summary  
