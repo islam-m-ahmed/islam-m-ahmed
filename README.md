@@ -2,13 +2,12 @@
 **Backend Engineer | Laravel Expert | Nodejs | 4+ years of experience in building scalable web applications | API Development**  
 
 📍 Alexandria, Egypt  
-📞 Mobile: 01098744381, 01276547898 (WhatsApp)  
-📧 Email: [islamicmahmed@gmail.com](mailto:islamicmahmed@gmail.com)  
+📞 Mobile: 01276547898 (WhatsApp)  
 🔗 [LinkedIn](https://www.linkedin.com/in/islam-m-fadlallah-8988311b8)
 ---
 
 ## 👨‍💻 Professional Summary  
-Backend Engineer with 4 years of experience specializing in PHP and Laravel. Passionate about solving complex problems, modernizing legacy systems, and building scalable, secure backend solutions. Experienced in developing ERPs, management systems, and multi-platform applications. Collaborative team player with strong communication skills and a track record of delivering high-quality software.
+Backend Engineer with 4 years of experience. Passionate about solving complex problems, modernizing legacy systems, and building scalable, secure backend solutions. Experienced in developing ERPs, management systems, and multi-platform applications. Collaborative team player with strong communication skills and a track record of delivering high-quality software.
 
 ---
 
@@ -17,7 +16,7 @@ Backend Engineer with 4 years of experience specializing in PHP and Laravel. Pas
 - **Frontend:** HTML5, CSS3, JavaScript (ES6), Bootstrap  
 - **Databases:** MySQL, SQL Server
 - **Tools & Technologies:** Git, Docker, WordPress  
-- **Other:** C++, Python, Problem Solving, Data Structures  
+- **Other:** C++, Python, Nodejs, Problem Solving, Data Structures  
 - **Soft Skills:** Leadership, Team Collaboration, Communication, Multitasking  
 
 ---
