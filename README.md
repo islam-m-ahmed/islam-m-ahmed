@@ -125,8 +125,8 @@ I focus on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=islam-m-ahmed&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=islam-m-ahmed&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -156,7 +156,7 @@ I’m on a path toward becoming a **Chief Technology Officer (CTO)** by:
 ## 🔥 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=islam-m-ahmed&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
