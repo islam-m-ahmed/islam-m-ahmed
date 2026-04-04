@@ -1,92 +1,162 @@
-# Islam Fadlallah  
-**Backend Engineer | Laravel Expert | Nodejs | 4+ years of experience in building scalable web applications | API Development**  
+# 👋 Hi, I'm Islam Fadlallah
 
-📍 Alexandria, Egypt  
-📞 Mobile: 01276547898 (WhatsApp)  
-🔗 [LinkedIn](https://www.linkedin.com/in/islam-m-fadlallah-8988311b8)
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Laravel+%26+Node.js;API+Architect+%7C+Scalable+Systems;Future+CTO+%7C+Tech+Leader" />
+</p>
 
-## 👨‍💻 Professional Summary  
-Backend Engineer with 4 years of experience. Passionate about solving complex problems, modernizing legacy systems, and building scalable, secure backend solutions. Experienced in developing ERPs, management systems, and multi-platform applications. Collaborative team player with strong communication skills and a track record of delivering high-quality software.
-
----
-
-## 🚀 Technical Skills  
-- **Backend:** PHP (OOP, MVC), Laravel, RESTful APIs  
-- **Frontend:** HTML5, CSS3, JavaScript (ES6), Bootstrap  
-- **Databases:** MySQL, SQL Server
-- **Tools & Technologies:** Git, Docker, WordPress  
-- **Other:** C++, Python, Nodejs, Problem Solving, Data Structures  
-- **Soft Skills:** Leadership, Team Collaboration, Communication, Multitasking  
+<p align="center">
+  <a href="https://www.linkedin.com/in/islam-m-fadlallah-8988311b8">
+    <img src="https://img.shields.io/badge/LinkedIn-Islam%20Fadlallah-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge" />
+</p>
 
 ---
 
-## 💼 Work Experience  
+## 🧑‍💻 About Me
 
-### Backend Engineer (PHP - Laravel) – DomApp  
-**Nov 2024 – Present**  
-- Developed and maintained server-side applications and APIs.  
-- Optimized databases and implemented scalable backend logic.  
-- Collaborated with cross-functional teams to deliver seamless solutions.  
+Backend Engineer with **4+ years of experience** designing and building **scalable, high-performance systems** using **Laravel and Node.js**.
 
-### Backend Engineer (PHP - Laravel) – Ivory Remotely  
-**Jan 2024 – Nov 2024**  
-- Updated and modernized legacy systems.  
-- Integrated new features and improved system performance.  
+I focus on:
 
-### Backend Developer – DomeFDH, Cairo  
-**2022 – Present**  
-- Developed and maintained backend systems for various applications.  
-- Collaborated with clients to gather requirements and deliver tailored solutions.  
+* ⚡ Building robust **RESTful APIs & microservices**
+* 🏗️ Designing scalable **system architectures**
+* 🔄 Modernizing legacy systems
+* 🤝 Aligning **business goals with technical solutions**
 
-### Backend Developer – Menovahup, Alexandria  
-**Sep 2022**  
-- Built and maintained backend systems for web applications.  
-- Worked closely with frontend teams to ensure responsive and user-friendly experiences.  
-
-### Full Stack Developer (Intern) – Zinadit, Smart Village  
-**Jun 2022**  
-- Gained hands-on experience in full-stack development.  
-- Contributed to both frontend and backend components of software projects.  
-
-### Full Stack Trainer – Ipda3, El-Mansoura  
-**Oct 2021**  
-- Trained individuals in backend development using modern technologies and best practices.  
+🎯 **Goal:** Transition into a **CTO role**, leading teams and driving technical strategy for impactful products.
 
 ---
 
-## 🛠️ Projects  
+## ⚙️ Tech Stack
 
-### ERP Systems & Management Platforms  
-- **ERP DomeFDH** – Initial development using Laravel.  
-- **ERP Designal** – Feature updates and enhancements.  
-- **HR System** – Feature updates in Laravel.  
-- **Custom ERP inside Zinad** – Ongoing project.  
+<p align="center">
 
-### Web & Mobile Applications  
-- **End User Dashboard & Mobile App** – Laravel-based dashboard, Google Play, and Apple Store releases.  
-- **Blood Donation System** – Laravel backend with mobile app and dashboard.  
-- **E-Training Platform** – Feature updates and improvements.  
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,html,css,bootstrap,mysql,docker,git,github,wordpress,python,cpp" />
 
-### Other Notable Projects  
-- **Restaurant Management System** – Initial development.  
-- **Hospital Management System** – Laravel-based.  
-- **Social Media Platform** – Initial development in Laravel.  
-- **LMS Multi-Vendor Platform** – Feature development.  
-- **E-Commerce Platform** – Feature enhancements.  
+</p>
 
 ---
 
-## 🎓 Education  
-- **BA in Computer Science** – Kafr El-Sheikh University (2023)  
-- **Full Stack Diploma** – Ministry of Communication (2020/2021)  
-- **ITI** – Web Application Development using PHP (2021)  
+## 🧠 Core Expertise
+
+* API Design & Development
+* Scalable System Architecture
+* Microservices & Distributed Systems
+* Performance Optimization
+* Database Design & Optimization
+* Technical Leadership & Mentorship
 
 ---
 
-## 📌 Overview  
-Experienced in integrating and improving company systems with new functionalities. Comfortable working independently or as part of a team, with a strong ability to perform under pressure and deliver high-quality results.
+## 💼 Experience
+
+### 🟢 Backend Engineer — DomApp
+
+📅 Nov 2024 – Present
+
+* Architecting scalable backend systems and APIs
+* Improving performance and optimizing database queries
+* Contributing to system design and technical decisions
 
 ---
 
-*© 2025 – Islam M. Fadlallah*
+### 🟢 Backend Engineer — Ivory Remotely
+
+📅 Jan 2024 – Nov 2024
+
+* Led modernization of legacy systems
+* Enhanced scalability and maintainability
+
+---
+
+### 🟢 Backend Developer — DomeFDH (Cairo)
+
+📅 2022 – Present
+
+* Developed ERP and management systems
+* Worked closely with stakeholders to deliver business-driven solutions
+
+---
+
+### 🟢 Backend Developer — Menovahup
+
+📅 Sep 2022
+
+* Built backend services and APIs
+* Collaborated with frontend teams
+
+---
+
+### 🟢 Full Stack Developer (Intern) — Zinadit
+
+📅 Jun 2022
+
+### 🟢 Full Stack Trainer — Ipda3
+
+📅 Oct 2021
+
+---
+
+## 🚀 Key Projects
+
+### 🏢 ERP & Enterprise Systems
+
+* ERP DomeFDH
+* ERP Designal
+* Custom ERP (Zinad)
+
+### 📱 Platforms & Applications
+
+* End User Platform (Web & Mobile APIs)
+* Blood Donation System
+* E-Training Platform
+
+### 🌍 Other Systems
+
+* Hospital Management System
+* LMS Multi-Vendor Platform
+* E-Commerce Platform
+* Social Platform
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧭 Career Vision
+
+I’m on a path toward becoming a **Chief Technology Officer (CTO)** by:
+
+* Leading engineering teams
+* Building scalable and reliable systems
+* Driving product and technical strategy
+* Creating technology that delivers real impact
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/islam-m-fadlallah-8988311b8">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <img src="https://img.shields.io/badge/WhatsApp-%2B20%20127%20654%207898-25D366?style=for-the-badge&logo=whatsapp"/>
+</p>
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
