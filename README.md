@@ -125,7 +125,7 @@ I focus on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islam-m-ahmed&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=islam-m-ahmed&theme=tokyonight" height="170"/>
   <img src="https://streak-stats.demolab.com?user=islam-m-ahmed&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
